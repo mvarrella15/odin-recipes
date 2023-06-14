@@ -6,3 +6,5 @@ The project took several hours to complete, and I am happy with the final produc
 In addition, this project taught me how to efficiently use git, git staging, and git committing, as well as other git workflow standard practice.
 
 While this project is simple, this taught me a lot in regards to the structure of websites and the importance of git in development.
+
+You can view the live website from this link provided: https://mvarrella15.github.io/odin-recipes/
